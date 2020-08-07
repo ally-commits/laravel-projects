@@ -1,0 +1,3 @@
+//SHELL CONNECTING
+mysql -h localhost -u root -p
+
